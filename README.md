@@ -1,1 +1,1 @@
-# Athlas-Privacy-Policy
+# Athlas Privacy Policy
