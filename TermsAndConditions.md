@@ -65,7 +65,7 @@ If you have any queries please contact <contact@mantu.com>.
 <a name="personal"/>
 ## 4. Personal Data Protection
 
-The processing conditions of your Personal Data in the frame of the use by You of ATHLAS are defined in the [Privacy Policy](#zing.vn).
+The processing conditions of your Personal Data in the frame of the use by You of ATHLAS are defined in the [Privacy Policy](https://duchuy-13.github.io/Athlas-Privacy-Policy/).
 
 <a name="registration"/>
 ## 5. Registration and credentials
