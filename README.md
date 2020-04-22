@@ -118,7 +118,7 @@ We reserve the right to change, modify, add or remove portions of this Privacy P
 
 You are advised to review this Privacy Policy periodically for any changes. Changes to this Privacy Policy are effective when they are posted on this page.
 
-Contact us
+### Contact us
 If you have any questions about this Privacy Policy, You can contact us:
 
 - By email: <contact@mantu.com>
